@@ -33,4 +33,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0342-power-of-four](https://github.com/RACHEL143143/leet-javapractice.java/tree/master/0342-power-of-four) |
+| [0476-number-complement](https://github.com/RACHEL143143/leet-javapractice.java/tree/master/0476-number-complement) |
 <!---LeetCode Topics End-->
