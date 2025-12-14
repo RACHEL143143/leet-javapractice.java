@@ -71,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/RACHEL143143/leet-javapractice.java/tree/master/2011-final-value-of-variable-after-performing-operations) |
+| [2937-make-three-strings-equal](https://github.com/RACHEL143143/leet-javapractice.java/tree/master/2937-make-three-strings-equal) |
 ## Simulation
 |  |
 | ------- |
