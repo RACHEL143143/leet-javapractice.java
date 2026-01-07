@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/RACHEL143143/leet-javapractice.java/tree/master/0027-remove-element) |
 | [0053-maximum-subarray](https://github.com/RACHEL143143/leet-javapractice.java/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/RACHEL143143/leet-javapractice.java/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0136-single-number](https://github.com/RACHEL143143/leet-javapractice.java/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/RACHEL143143/leet-javapractice.java/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/RACHEL143143/leet-javapractice.java/tree/master/0217-contains-duplicate) |
 | [0283-move-zeroes](https://github.com/RACHEL143143/leet-javapractice.java/tree/master/0283-move-zeroes) |
@@ -49,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0136-single-number](https://github.com/RACHEL143143/leet-javapractice.java/tree/master/0136-single-number) |
 | [0342-power-of-four](https://github.com/RACHEL143143/leet-javapractice.java/tree/master/0342-power-of-four) |
 | [0371-sum-of-two-integers](https://github.com/RACHEL143143/leet-javapractice.java/tree/master/0371-sum-of-two-integers) |
 | [0476-number-complement](https://github.com/RACHEL143143/leet-javapractice.java/tree/master/0476-number-complement) |
