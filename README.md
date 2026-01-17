@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0342-power-of-four](https://github.com/RACHEL143143/leet-javapractice.java/tree/master/0342-power-of-four) |
 | [0343-integer-break](https://github.com/RACHEL143143/leet-javapractice.java/tree/master/0343-integer-break) |
 | [0371-sum-of-two-integers](https://github.com/RACHEL143143/leet-javapractice.java/tree/master/0371-sum-of-two-integers) |
+| [0405-convert-a-number-to-hexadecimal](https://github.com/RACHEL143143/leet-javapractice.java/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0507-perfect-number](https://github.com/RACHEL143143/leet-javapractice.java/tree/master/0507-perfect-number) |
 | [0509-fibonacci-number](https://github.com/RACHEL143143/leet-javapractice.java/tree/master/0509-fibonacci-number) |
 | [1025-divisor-game](https://github.com/RACHEL143143/leet-javapractice.java/tree/master/1025-divisor-game) |
@@ -57,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/RACHEL143143/leet-javapractice.java/tree/master/0136-single-number) |
 | [0342-power-of-four](https://github.com/RACHEL143143/leet-javapractice.java/tree/master/0342-power-of-four) |
 | [0371-sum-of-two-integers](https://github.com/RACHEL143143/leet-javapractice.java/tree/master/0371-sum-of-two-integers) |
+| [0405-convert-a-number-to-hexadecimal](https://github.com/RACHEL143143/leet-javapractice.java/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0476-number-complement](https://github.com/RACHEL143143/leet-javapractice.java/tree/master/0476-number-complement) |
 ## Dynamic Programming
 |  |
@@ -91,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/RACHEL143143/leet-javapractice.java/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0058-length-of-last-word](https://github.com/RACHEL143143/leet-javapractice.java/tree/master/0058-length-of-last-word) |
+| [0405-convert-a-number-to-hexadecimal](https://github.com/RACHEL143143/leet-javapractice.java/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [1370-increasing-decreasing-string](https://github.com/RACHEL143143/leet-javapractice.java/tree/master/1370-increasing-decreasing-string) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/RACHEL143143/leet-javapractice.java/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2937-make-three-strings-equal](https://github.com/RACHEL143143/leet-javapractice.java/tree/master/2937-make-three-strings-equal) |
