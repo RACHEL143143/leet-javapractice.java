@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0313-super-ugly-number](https://github.com/RACHEL143143/leet-javapractice.java/tree/master/0313-super-ugly-number) |
 | [0326-power-of-three](https://github.com/RACHEL143143/leet-javapractice.java/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/RACHEL143143/leet-javapractice.java/tree/master/0342-power-of-four) |
 | [0343-integer-break](https://github.com/RACHEL143143/leet-javapractice.java/tree/master/0343-integer-break) |
@@ -41,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/RACHEL143143/leet-javapractice.java/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/RACHEL143143/leet-javapractice.java/tree/master/0217-contains-duplicate) |
 | [0283-move-zeroes](https://github.com/RACHEL143143/leet-javapractice.java/tree/master/0283-move-zeroes) |
+| [0313-super-ugly-number](https://github.com/RACHEL143143/leet-javapractice.java/tree/master/0313-super-ugly-number) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/RACHEL143143/leet-javapractice.java/tree/master/1822-sign-of-the-product-of-an-array) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/RACHEL143143/leet-javapractice.java/tree/master/2011-final-value-of-variable-after-performing-operations) |
 ## Greedy
@@ -67,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0053-maximum-subarray](https://github.com/RACHEL143143/leet-javapractice.java/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/RACHEL143143/leet-javapractice.java/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0313-super-ugly-number](https://github.com/RACHEL143143/leet-javapractice.java/tree/master/0313-super-ugly-number) |
 | [0343-integer-break](https://github.com/RACHEL143143/leet-javapractice.java/tree/master/0343-integer-break) |
 | [0357-count-numbers-with-unique-digits](https://github.com/RACHEL143143/leet-javapractice.java/tree/master/0357-count-numbers-with-unique-digits) |
 | [0509-fibonacci-number](https://github.com/RACHEL143143/leet-javapractice.java/tree/master/0509-fibonacci-number) |
