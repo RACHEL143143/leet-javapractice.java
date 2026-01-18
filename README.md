@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/RACHEL143143/leet-javapractice.java/tree/master/0217-contains-duplicate) |
 | [0283-move-zeroes](https://github.com/RACHEL143143/leet-javapractice.java/tree/master/0283-move-zeroes) |
 | [0313-super-ugly-number](https://github.com/RACHEL143143/leet-javapractice.java/tree/master/0313-super-ugly-number) |
+| [0867-transpose-matrix](https://github.com/RACHEL143143/leet-javapractice.java/tree/master/0867-transpose-matrix) |
 | [1004-max-consecutive-ones-iii](https://github.com/RACHEL143143/leet-javapractice.java/tree/master/1004-max-consecutive-ones-iii) |
 | [1046-last-stone-weight](https://github.com/RACHEL143143/leet-javapractice.java/tree/master/1046-last-stone-weight) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/RACHEL143143/leet-javapractice.java/tree/master/1822-sign-of-the-product-of-an-array) |
@@ -109,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0867-transpose-matrix](https://github.com/RACHEL143143/leet-javapractice.java/tree/master/0867-transpose-matrix) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/RACHEL143143/leet-javapractice.java/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [3726-remove-zeros-in-decimal-representation](https://github.com/RACHEL143143/leet-javapractice.java/tree/master/3726-remove-zeros-in-decimal-representation) |
 ## Hash Table
@@ -165,4 +167,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1046-last-stone-weight](https://github.com/RACHEL143143/leet-javapractice.java/tree/master/1046-last-stone-weight) |
+## Matrix
+|  |
+| ------- |
+| [0867-transpose-matrix](https://github.com/RACHEL143143/leet-javapractice.java/tree/master/0867-transpose-matrix) |
 <!---LeetCode Topics End-->
