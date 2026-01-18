@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0867-transpose-matrix](https://github.com/RACHEL143143/leet-javapractice.java/tree/master/0867-transpose-matrix) |
 | [1004-max-consecutive-ones-iii](https://github.com/RACHEL143143/leet-javapractice.java/tree/master/1004-max-consecutive-ones-iii) |
 | [1046-last-stone-weight](https://github.com/RACHEL143143/leet-javapractice.java/tree/master/1046-last-stone-weight) |
+| [1431-kids-with-the-greatest-number-of-candies](https://github.com/RACHEL143143/leet-javapractice.java/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/RACHEL143143/leet-javapractice.java/tree/master/1822-sign-of-the-product-of-an-array) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/RACHEL143143/leet-javapractice.java/tree/master/2011-final-value-of-variable-after-performing-operations) |
 ## Greedy
