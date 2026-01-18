@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/RACHEL143143/leet-javapractice.java/tree/master/0217-contains-duplicate) |
 | [0283-move-zeroes](https://github.com/RACHEL143143/leet-javapractice.java/tree/master/0283-move-zeroes) |
 | [0313-super-ugly-number](https://github.com/RACHEL143143/leet-javapractice.java/tree/master/0313-super-ugly-number) |
+| [1004-max-consecutive-ones-iii](https://github.com/RACHEL143143/leet-javapractice.java/tree/master/1004-max-consecutive-ones-iii) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/RACHEL143143/leet-javapractice.java/tree/master/1822-sign-of-the-product-of-an-array) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/RACHEL143143/leet-javapractice.java/tree/master/2011-final-value-of-variable-after-performing-operations) |
 ## Greedy
@@ -143,8 +144,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0400-nth-digit](https://github.com/RACHEL143143/leet-javapractice.java/tree/master/0400-nth-digit) |
+| [1004-max-consecutive-ones-iii](https://github.com/RACHEL143143/leet-javapractice.java/tree/master/1004-max-consecutive-ones-iii) |
 ## Backtracking
 |  |
 | ------- |
 | [0357-count-numbers-with-unique-digits](https://github.com/RACHEL143143/leet-javapractice.java/tree/master/0357-count-numbers-with-unique-digits) |
+## Sliding Window
+|  |
+| ------- |
+| [1004-max-consecutive-ones-iii](https://github.com/RACHEL143143/leet-javapractice.java/tree/master/1004-max-consecutive-ones-iii) |
+## Prefix Sum
+|  |
+| ------- |
+| [1004-max-consecutive-ones-iii](https://github.com/RACHEL143143/leet-javapractice.java/tree/master/1004-max-consecutive-ones-iii) |
 <!---LeetCode Topics End-->
